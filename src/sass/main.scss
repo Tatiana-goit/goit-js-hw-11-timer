@@ -1,1 +1,37 @@
+body {
+    text-align: center;
+    background: rgb(65, 17, 104);
+    font-family: 'Montserrat';
+};
 
+h1 {
+    color: #fff;
+    font-size: 46px;
+}
+
+.timer {
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.field {
+    padding: 20px;
+    border-radius: 10px;
+    background: rgb(53, 20, 240);
+    display: inline-block;
+}
+
+.value {
+    padding: 20px;
+    border-radius: 5px;
+    background: rgb(65, 17, 104);
+    display: inline-block;
+  }
+
+.label {
+    display: block;
+    padding-top: 15px;
+    font-size: 25px;
+  }
